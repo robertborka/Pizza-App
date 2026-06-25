@@ -1,0 +1,29 @@
+{
+  "name": "top-family-pizza",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "leaflet": "^1.9.4",
+    "mongoose": "^9.3.3",
+    "next": "15.0.7",
+    "next-auth": "^4.24.11",
+    "nodemailer": "^7.0.7",
+    "openai": "^6.38.0",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.20",
+    "eslint": "^8",
+    "eslint-config-next": "15.0.7",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.16"
+  }
+}
